@@ -1,7 +1,3 @@
-Below is a cleaner, more structured, and clearer version of your README section. It improves readability, fixes formatting issues, and adds short descriptions for each script.
-
----
-
 ## Setup
 
 This project uses **`renv`** for reproducible package management.
@@ -71,3 +67,5 @@ Also includes:
 
 ---
 
+
+## The materials in this repository are intended exclusively for individual study and educational use.
